@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm smit_kalathiya</h1>
 <h3 align="center">I'm a passionate full-stack developer with a love for solving complex problems. With a solid foundation in both front-end and back-end technologies</h3>
 
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smit02k&label=Profile%20views&color=0e75b6&style=flat" alt="smit02k" /> </p>
 
