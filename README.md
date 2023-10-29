@@ -1,3 +1,12 @@
+
+![Screenshot 2023-10-29 140815](https://github.com/smit02K/smit02K/assets/63186967/085e8ad1-5bc1-4a6b-a993-c2af0eb563c2)
+
+
+
+
+
+
+
 <h1 align="center">Hi 👋, I'm smit_kalathiya</h1>
 <h3 align="center">I'm a passionate full-stack developer with a love for solving complex problems. With a solid foundation in both front-end and back-end technologies</h3>
 
