@@ -67,7 +67,7 @@
 <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>  -->
 </p>
 
-<br>
+<hr>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=smit02k&show_icons=true&locale=en&layout=compact" alt="smit02k" /></p>
-<br>
+<hr>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smit02k&show_icons=true&locale=en" alt="smit02k" /></p>
