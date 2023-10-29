@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm smit_kalathiya</h1>
 <h3 align="center">I'm a passionate full-stack developer with a love for solving complex problems. With a solid foundation in both front-end and back-end technologies</h3>
 
+<img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47r1177k1kv70r3ktqgnw1tiz73hthoi8hz2dgz61n&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smit02k&label=Profile%20views&color=0e75b6&style=flat" alt="smit02k" /> </p>
 
 - 🔭 I’m currently working on [Royal Enfield clone website](https://www.royalenfield.com/in/en/home/)
