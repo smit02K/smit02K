@@ -1,9 +1,5 @@
 
-![Screenshot 2023-10-29 140815](https://github.com/smit02K/smit02K/assets/63186967/085e8ad1-5bc1-4a6b-a993-c2af0eb563c2)
-
-
-
-
+<img align="top" alt="coding"  height="200" width="750" src="https://github.com/smit02K/smit02K/assets/63186967/085e8ad1-5bc1-4a6b-a993-c2af0eb563c2">
 
 
 
