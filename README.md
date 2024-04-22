@@ -10,15 +10,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smit02k&label=Profile%20views&color=0e75b6&style=flat" alt="smit02k" /> </p>
 
-- 🔭 I’m currently working on [Royal Enfield clone website](https://www.royalenfield.com/in/en/home/)
+- 🔭 I’m currently working on [E-Commerce Platform](https://github.com/mohamedsamara/mern-ecommerce)
 
-- 🌱 I’m currently learning **DSA, Hibernate, Spring and React**
+- 🌱 I’m currently learning **DSA, Hibernate, Express and React**
 
 - 👯 I’m looking to collaborate on [Creating a CrowdFunding Application with the Algorand Blockchain](https://developer.algorand.org/solutions/creating-crowdfunding-application-algorand-blockchain/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/smit02K](https://github.com/smit02K)
 
-- 💬 Ask me about **JAVA SE**
+- 💬 Ask me about **Jquery ,MERN ,JAVA SE**
 
 - 📫 How to reach me **smitgkalathiya@gmail.com**
 
